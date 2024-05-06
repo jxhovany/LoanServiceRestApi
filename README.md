@@ -1,3 +1,3 @@
--This is a simple Spring boot project for my Java final
--I used MySQL to store data from "customers" 
+-This is a simple Spring boot project for my Java final<br>
+-I used MySQL to store data from "customers" <br>
 -Used PostMan as well to store data to MySQL
